@@ -23,6 +23,7 @@ sudo apt update
 
 
 ```sh
+cargo install tauri-cli
 git clone https://github.com/kaesluder/radiogaga.git ./radiogaga
 cd radiogaga
 npm install
